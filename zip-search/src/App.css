@@ -4,3 +4,18 @@
   color: white;
   text-align: center;
 }
+
+.Zipcode {
+  margin-left: 40%;
+  margin-top: 20px;
+}
+
+.No-result {
+  text-align: center;
+}
+
+.Card {
+  width: 25rem;
+  margin-left: 35%;
+  margin-top: 20px;
+}
