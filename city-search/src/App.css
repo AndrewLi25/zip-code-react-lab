@@ -1,0 +1,21 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.Zips {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.CitySearch {
+  margin-left: 40%;
+  margin-top: 20px;
+}
+
+.No-result {
+  text-align: center;
+}
